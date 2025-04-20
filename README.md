@@ -4,6 +4,7 @@
 - Docker
 - docker-compose
 - SCS-Receiver (Spring Cloud Stream & Azure Servicebus Emulator Consumer Example)
+  - https://github.com/afsinka/servicebus-scs-receiver
 
 ### Setup
 - Create a folder called "servicebus"
